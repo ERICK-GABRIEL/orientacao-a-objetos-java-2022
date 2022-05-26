@@ -8,4 +8,4 @@
 
 | CLASS | SUBJECT |
 |------|---------|
-|Class 01|[Classes and Objects](./Orientacao%20a%20objetos/src/br/com/entra21/orientacao/objetos/principal/classes/)
+|Class 01|[Classes and Objects](https://github.com/ERICK-GABRIEL/orientacao-a-objetos-java-2022/tree/main/Orientacao%20a%20objetos)
